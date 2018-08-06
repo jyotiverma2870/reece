@@ -1,6 +1,6 @@
-#Address Book Application (Command Line Based)
+# Address Book Application (Command Line Based)
 
-#Design / Architecture
+# Design / Architecture
 
 As required, application uses core java only and follows MVC architecture.
 
@@ -8,7 +8,7 @@ As required, application uses core java only and follows MVC architecture.
 
 1. JUNIT coverage is provided for App (view part) class only as only this class has all the business logic. Other classes are there as placeholders to support architecture.
 
-#Tech-Stack Used to build application:
+# Tech-Stack Used to build application:
 
 	  1. Core Java.
     2. JUnit : Unit Test Framework
