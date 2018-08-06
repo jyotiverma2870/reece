@@ -31,6 +31,7 @@ As required, application uses core java only and follows MVC architecture.
 ```java -cp ./target/addressbook-0.0.1-SNAPSHOT.jar au.com.reece.app.addressbook.view.App```
 * Now application is started, and shows the main menu:
 
+```
 Welcome to Reece Address Book App !
  ======= Main Menu ======
 0 : Create an address book
@@ -41,5 +42,5 @@ Welcome to Reece Address Book App !
 5 : Exit Application
  ===== End Main Menu ====
 Enter your choice : 
-
+```
 Follow the menu instructions to navigate through the application.
